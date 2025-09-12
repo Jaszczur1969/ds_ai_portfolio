@@ -1,0 +1,24 @@
+site_name: Moje projekty
+site_author: Jaszczur1969
+site_description: >-
+    Portfolio moich projektów z Data Science i AI!
+
+theme:
+  name: material
+  palette: 
+    primary: blue
+  
+    
+nav:
+- Strona Domowa: index.md
+- Obecny projekt:
+  - "Insightly": Insightly/index.md
+  - "Titanic": Titanic/index.md
+- Poprzednie projekty:
+  - "Iris": Iris/index.md
+
+
+markdown_extensions: 
+  - attr_list
+  - md_in_html
+  - tables
