@@ -1,5 +1,5 @@
 
-# Fascynująca Analiza Danych EDA Irysów: Eksploracja Domenowa
+# Analiza Danych EDA dla Irysów: Eksploracja Domenowa
 
 **2025-08-01**
 

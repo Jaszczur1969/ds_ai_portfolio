@@ -1,7 +1,11 @@
 site_name: Moje projekty
 site_author: Jaszczur1969
+site_url: https://github.com/Jaszczur1969/ds_ai_portfolio.git
 site_description: >-
     Portfolio moich projektów z Data Science i AI!
+
+repo_name: Jaszczur1969/ds_ai_portfolio
+repo_url: https://github.com/Jaszczur1969/ds_ai_portfolio.git
 
 theme:
   name: material
