@@ -15,6 +15,9 @@ Zapraszam do zapoznania się z moją praktyczną aplikacją do wyliczenia wysoko
 
 Użytkownik po otrzymaniu szacunkowego wyliczenia wysokości ubezpieczenia otrzymuje też szereg  informacji na temat, które z podanych parametrów najbardziej wpływają na wysokości ubezpieczenia oraz czym jest wskaźnik BMI. Może następnie ponownie wyliczyć wysokość ubezpieczenia w przypadku gdyby zmienił parametry (np. rzucił palenie, schudł itd.) i porównać jakie poczyni wtedy oszczędności.
 
+[Link do aplikacji na Streamlit](https://insurance-predictor-jaszczur1969.streamlit.app){:target="_blank"}
+
+[Link do repozytorium na GitHub](https://github.com/Jaszczur1969/Insurance_prediction.git){:target="_blank"}
 
 <img src="Screen_1.PNG" alt="Opis obrazka" width="800">
 
