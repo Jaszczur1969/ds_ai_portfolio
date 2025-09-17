@@ -17,12 +17,16 @@ nav:
 - Strona Domowa: index.md
 - Obecny projekt:
   - "Insightly": Insightly/index.md
-  - "Titanic": Titanic/index.md
 - Poprzednie projekty:
-  - "Iris": Iris/index.md
+  - "EDA - Iris (PL)": Iris/index.md
+  - "EDA - Titanic (PL)": Titanic/index.md
+  - "Insurance predictor (EN)": Insurance predictor/index.md
 
 
 markdown_extensions: 
   - attr_list
   - md_in_html
   - tables
+
+plugins:
+  - glightbox
