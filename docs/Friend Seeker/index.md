@@ -24,8 +24,8 @@ Friend Seeker is a smart web app that helps you connect with people who share yo
 
 [Link do repozytorium na GitHub](https://github.com/Jaszczur1969/Friend_Seeker.git){:target="_blank"}
 
-<img src="Friend_Seeker_1.png" alt="Opis obrazka" width="800">
+<img src="Friend_Seeker_1.PNG" alt="Opis obrazka" width="800">
 
-<img src="Friend_Seeker_2.png" alt="Opis obrazka" width="800">
+<img src="Friend_Seeker_2.PNG" alt="Opis obrazka" width="800">
 
-<img src="Friend_Seeker_3.png" alt="Opis obrazka" width="800">
+<img src="Friend_Seeker_3.PNG" alt="Opis obrazka" width="800">
