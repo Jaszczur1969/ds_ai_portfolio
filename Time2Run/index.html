@@ -49,6 +49,8 @@
       
     
     
+      <link rel="stylesheet" href="../css/extra.css">
+    
     <script>__md_scope=new URL("..",location),__md_hash=e=>[...e].reduce(((e,_)=>(e<<5)-e+_.charCodeAt(0)),0),__md_get=(e,_=localStorage,t=__md_scope)=>JSON.parse(_.getItem(t.pathname+"."+e)),__md_set=(e,_,t=localStorage,a=__md_scope)=>{try{t.setItem(a.pathname+"."+e,JSON.stringify(_))}catch(e){}}</script>
     
       
@@ -71,10 +73,12 @@
   
     
     
+      
     
     
     
-    <body dir="ltr" data-md-color-scheme="default" data-md-color-primary="blue" data-md-color-accent="indigo">
+    
+    <body dir="ltr" data-md-color-scheme="slate" data-md-color-primary="blue" data-md-color-accent="indigo">
   
     
     <input class="md-toggle" data-md-toggle="drawer" type="checkbox" id="__drawer" autocomplete="off">
@@ -127,7 +131,19 @@
     </div>
     
       
+        <form class="md-header__option" data-md-component="palette">
+  
     
+    
+    
+    <input class="md-option" data-md-color-media="" data-md-color-scheme="slate" data-md-color-primary="blue" data-md-color-accent="indigo" aria-hidden="true" type="radio" name="__palette" id="__palette_0">
+    
+  
+</form>
+      
+    
+    
+      <script>var palette=__md_get("__palette");if(palette&&palette.color){if("(prefers-color-scheme)"===palette.color.media){var media=matchMedia("(prefers-color-scheme: light)"),input=document.querySelector(media.matches?"[data-md-color-media='(prefers-color-scheme: light)']":"[data-md-color-media='(prefers-color-scheme: dark)']");palette.color.media=input.getAttribute("data-md-color-media"),palette.color.scheme=input.getAttribute("data-md-color-scheme"),palette.color.primary=input.getAttribute("data-md-color-primary"),palette.color.accent=input.getAttribute("data-md-color-accent")}for(var[key,value]of Object.entries(palette.color))document.body.setAttribute("data-md-color-"+key,value)}</script>
     
     
     
@@ -511,7 +527,11 @@
 <li>Boto3 + DigitalOcean Spaces (S3) – flexible cloud storage and model loading.</li>
 <li>Langfuse – real-time AI monitoring and analytics.</li>
 </ul>
-<p><a href="https://github.com/Jaszczur1969/Time2Run.git" target="_blank">Link do repozytorium na GitHub</a></p>
+<hr class="section-divider">
+
+<p><a class="button-link" href="https://github.com/Jaszczur1969/Time2Run.git" target="_blank">GitHub repository</a></p>
+<hr class="section-divider">
+
 <p><a class="glightbox" data-type="image" data-width="auto" data-height="auto" href="Time2Run_1.PNG" data-desc-position="bottom"><img src="Time2Run_1.PNG" alt="Opis obrazka" width="800"></a></p>
 <p><a class="glightbox" data-type="image" data-width="auto" data-height="auto" href="Time2Run_3.PNG" data-desc-position="bottom"><img src="Time2Run_3.PNG" alt="Opis obrazka" width="800"></a></p>
 

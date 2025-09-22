@@ -49,6 +49,8 @@
       
     
     
+      <link rel="stylesheet" href="../css/extra.css">
+    
     <script>__md_scope=new URL("..",location),__md_hash=e=>[...e].reduce(((e,_)=>(e<<5)-e+_.charCodeAt(0)),0),__md_get=(e,_=localStorage,t=__md_scope)=>JSON.parse(_.getItem(t.pathname+"."+e)),__md_set=(e,_,t=localStorage,a=__md_scope)=>{try{t.setItem(a.pathname+"."+e,JSON.stringify(_))}catch(e){}}</script>
     
       
@@ -71,10 +73,12 @@
   
     
     
+      
     
     
     
-    <body dir="ltr" data-md-color-scheme="default" data-md-color-primary="blue" data-md-color-accent="indigo">
+    
+    <body dir="ltr" data-md-color-scheme="slate" data-md-color-primary="blue" data-md-color-accent="indigo">
   
     
     <input class="md-toggle" data-md-toggle="drawer" type="checkbox" id="__drawer" autocomplete="off">
@@ -83,7 +87,7 @@
     <div data-md-component="skip">
       
         
-        <a href="#insurance-predictor-praktyczny-kalkulator-do-wyliczenia-wysokosci-ubezpieczenia" class="md-skip">
+        <a href="#insurance-predictor-quick-easy-insurance-calculator" class="md-skip">
           Skip to content
         </a>
       
@@ -127,7 +131,19 @@
     </div>
     
       
+        <form class="md-header__option" data-md-component="palette">
+  
     
+    
+    
+    <input class="md-option" data-md-color-media="" data-md-color-scheme="slate" data-md-color-primary="blue" data-md-color-accent="indigo" aria-hidden="true" type="radio" name="__palette" id="__palette_0">
+    
+  
+</form>
+      
+    
+    
+      <script>var palette=__md_get("__palette");if(palette&&palette.color){if("(prefers-color-scheme)"===palette.color.media){var media=matchMedia("(prefers-color-scheme: light)"),input=document.querySelector(media.matches?"[data-md-color-media='(prefers-color-scheme: light)']":"[data-md-color-media='(prefers-color-scheme: dark)']");palette.color.media=input.getAttribute("data-md-color-media"),palette.color.scheme=input.getAttribute("data-md-color-scheme"),palette.color.primary=input.getAttribute("data-md-color-primary"),palette.color.accent=input.getAttribute("data-md-color-accent")}for(var[key,value]of Object.entries(palette.color))document.body.setAttribute("data-md-color-"+key,value)}</script>
     
     
     
@@ -491,8 +507,7 @@
   
 
 
-<h1 id="insurance-predictor-praktyczny-kalkulator-do-wyliczenia-wysokosci-ubezpieczenia"><strong>Insurance predictor</strong> - praktyczny kalkulator do wyliczenia wysokości ubezpieczenia</h1>
-<p><strong>2025-08-02</strong></p>
+<h1 id="insurance-predictor-quick-easy-insurance-calculator"><strong>Insurance predictor</strong> - Quick &amp; Easy Insurance Calculator</h1>
 <p>Discover my practical app designed to estimate your insurance premium based on the details you provide:</p>
 <ul>
 <li>Gender</li>
@@ -506,8 +521,12 @@
 <p>Once you receive your personalized insurance estimate, the app also highlights which factors have the biggest impact on your premium and explains the role of the Body Mass Index (BMI).</p>
 <p>You can then adjust your inputs — such as quitting smoking or losing weight — and instantly recalculate your premium to see how much you could save. This way, the app not only gives you an estimate but also motivates you to make positive lifestyle changes that reduce costs in the long run.</p>
 <p>Built on the powerful Streamlit engine and enhanced with regression modeling powered by PyCaret, my app combines modern technology with simplicity and speed.</p>
-<p><a href="https://insurance-predictor-jaszczur1969.streamlit.app" target="_blank">Link do aplikacji na Streamlit</a></p>
-<p><a href="https://github.com/Jaszczur1969/Insurance_prediction.git" target="_blank">Link do repozytorium na GitHub</a></p>
+<hr class="section-divider">
+
+<p><a class="button-link" href="https://insurance-predictor-jaszczur1969.streamlit.app" target="_blank">Click to open App</a></p>
+<p><a class="button-link" href="https://github.com/Jaszczur1969/Insurance_prediction.git" target="_blank">GitHub repository</a></p>
+<hr class="section-divider">
+
 <p><a class="glightbox" data-type="image" data-width="auto" data-height="auto" href="Screen_1.PNG" data-desc-position="bottom"><img src="Screen_1.PNG" alt="Opis obrazka" width="800"></a></p>
 <p><a class="glightbox" data-type="image" data-width="auto" data-height="auto" href="Screen_3.PNG" data-desc-position="bottom"><img src="Screen_3.PNG" alt="Opis obrazka" width="800"></a></p>
 
