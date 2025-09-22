@@ -18,10 +18,11 @@ nav:
 - Obecny projekt:
   - "Insightly": Insightly/index.md
 - Poprzednie projekty:
-  - "EDA - Iris (PL)": Iris/index.md
   - "EDA - Titanic (PL)": Titanic/index.md
+  - "EDA - Iris (PL)": Iris/index.md
   - "Insurance predictor (EN)": Insurance predictor/index.md
-
+  - "Time2Run (EN)": Time2Run/index.md
+  - "Friend Seeker": Friend Seeker/index.md
 
 markdown_extensions: 
   - attr_list

@@ -19,9 +19,6 @@ Użytkownik po otrzymaniu szacunkowego wyliczenia wysokości ubezpieczenia otrzy
 
 [Link do repozytorium na GitHub](https://github.com/Jaszczur1969/Insurance_prediction.git){:target="_blank"}
 
-<img src="Screen_1.PNG" alt="Opis obrazka" width="800">
+<img src="Screen_1.png" alt="Opis obrazka" width="800">
 
-<img src="Screen_3.PNG" alt="Opis obrazka" width="800">
-
-
-Dane do wytrenowania modelu pochodzą z Pycaret Datasets
+<img src="Screen_3.png" alt="Opis obrazka" width="800">
