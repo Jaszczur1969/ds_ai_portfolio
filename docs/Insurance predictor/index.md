@@ -1,7 +1,6 @@
 
-# **Insurance predictor** - praktyczny kalkulator do wyliczenia wysokości ubezpieczenia
+# **Insurance predictor** - Quick & Easy Insurance Calculator
 
-**2025-08-02**
 
 Discover my practical app designed to estimate your insurance premium based on the details you provide:
 
@@ -19,9 +18,13 @@ You can then adjust your inputs — such as quitting smoking or losing weight �
 
 Built on the powerful Streamlit engine and enhanced with regression modeling powered by PyCaret, my app combines modern technology with simplicity and speed.
 
-[Link do aplikacji na Streamlit](https://insurance-predictor-jaszczur1969.streamlit.app){:target="_blank"}
+<hr class="section-divider">
 
-[Link do repozytorium na GitHub](https://github.com/Jaszczur1969/Insurance_prediction.git){:target="_blank"}
+[Click to open App](https://insurance-predictor-jaszczur1969.streamlit.app){ .button-link target="_blank" }
+
+[GitHub repository](https://github.com/Jaszczur1969/Insurance_prediction.git){ .button-link target="_blank" }
+
+<hr class="section-divider">
 
 <img src="Screen_1.PNG" alt="Opis obrazka" width="800">
 

@@ -21,9 +21,12 @@ Ever wondered how fast you could finish a half marathon based on your pace and a
 - Boto3 + DigitalOcean Spaces (S3) – flexible cloud storage and model loading.
 - Langfuse – real-time AI monitoring and analytics.
 
+<hr class="section-divider">
 
+[GitHub repository](https://github.com/Jaszczur1969/Time2Run.git){ .button-link target="_blank" }
 
-[Link do repozytorium na GitHub](https://github.com/Jaszczur1969/Time2Run.git){:target="_blank"}
+<hr class="section-divider">
+
 
 <img src="Time2Run_1.PNG" alt="Opis obrazka" width="800">
 

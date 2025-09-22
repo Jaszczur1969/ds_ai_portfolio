@@ -1,10 +1,12 @@
 # Analiza Danych dla Irysów (EDA)
 
-**2025-08-01**
 
 Zapraszam do zapoznania się z moim projektem dotyczącym analizy cech morfologicznych 3 gatunków irysów za pomocą eksploracji domenowej (EDA). W tym projekcie znajdziesz mnóstwo trafnych wniosków i ciekawych obserwacji, które rzucają nowe światło na te piękne kwiaty. Przygotuj się na fascynującą podróż przez dane, która z pewnością wzbogaci Twoją wiedzę i zainspiruje do dalszych badań.
 
-<a href="Iris.ipynb" class="md-button md-button--primary">Pobierz Notebook</a>
+
+[Pobierz Notebook](Iris.ipynb){ .button-link download="Iris.ipynb" }
+
+<hr class="section-divider">
 
 <iframe
     id="content"

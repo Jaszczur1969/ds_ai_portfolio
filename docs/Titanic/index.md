@@ -11,7 +11,10 @@ Zapraszam do zapoznania się z moim projektem dotyczącym analizy danych o pasa�
 
 Te oraz inne ciekawostki znajdziesz w poniższym raporcie. Przygotuj się na fascynującą podróż przez dane, która z pewnością wzbogaci Twoją wiedzę i zainspiruje do dalszych badań.
 
-<a href="Titanic.ipynb" class="md-button md-button--primary">Pobierz Notebook</a>
+
+[Pobierz Notebook](Titanic.ipynb){ .button-link download="Titanic.ipynb" }
+
+<hr class="section-divider">
 
 <iframe
     id="content"

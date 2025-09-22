@@ -9,8 +9,10 @@ repo_url: https://github.com/Jaszczur1969/ds_ai_portfolio.git
 
 theme:
   name: material
-  palette: 
-    primary: blue
+  palette:
+    - scheme: slate
+      primary: blue
+ 
   
     
 nav:
@@ -31,3 +33,6 @@ markdown_extensions:
 
 plugins:
   - glightbox
+
+extra_css:
+  - css/extra.css

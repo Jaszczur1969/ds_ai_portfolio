@@ -20,9 +20,11 @@ Friend Seeker is a smart web app that helps you connect with people who share yo
 - Plotly Express – beautiful, interactive charts
 - Pandas – efficient data processing
 
+<hr class="section-divider">
 
+[GitHub repository](https://github.com/Jaszczur1969/Friend_Seeker.git){ .button-link target="_blank" }
 
-[Link do repozytorium na GitHub](https://github.com/Jaszczur1969/Friend_Seeker.git){:target="_blank"}
+<hr class="section-divider">
 
 <img src="Friend_Seeker_1.PNG" alt="Opis obrazka" width="800">
 
