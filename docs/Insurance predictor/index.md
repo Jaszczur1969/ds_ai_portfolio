@@ -3,17 +3,21 @@
 
 **2025-08-02**
 
-Zapraszam do zapoznania się z moją praktyczną aplikacją do wyliczenia wysokości ubezpieczenia na podstawie danych wejściowych od użytkownika:
+Discover my practical app designed to estimate your insurance premium based on the details you provide:
 
-- Płci
-- Wieku
-- Ilości posiadanych dzieci
-- Czy użytkownik jest palaczem
-- Wzrostu
-- Wagi
-- Rejonu pochodzenia (obszary USA)
+- Gender
+- Age
+- Number of children
+- Smoking status
+- Height
+- Weight
+- Region of residence (across the U.S.)
 
-Użytkownik po otrzymaniu szacunkowego wyliczenia wysokości ubezpieczenia otrzymuje też szereg  informacji na temat, które z podanych parametrów najbardziej wpływają na wysokości ubezpieczenia oraz czym jest wskaźnik BMI. Może następnie ponownie wyliczyć wysokość ubezpieczenia w przypadku gdyby zmienił parametry (np. rzucił palenie, schudł itd.) i porównać jakie poczyni wtedy oszczędności.
+Once you receive your personalized insurance estimate, the app also highlights which factors have the biggest impact on your premium and explains the role of the Body Mass Index (BMI).
+
+You can then adjust your inputs — such as quitting smoking or losing weight — and instantly recalculate your premium to see how much you could save. This way, the app not only gives you an estimate but also motivates you to make positive lifestyle changes that reduce costs in the long run.
+
+Built on the powerful Streamlit engine and enhanced with regression modeling powered by PyCaret, my app combines modern technology with simplicity and speed.
 
 [Link do aplikacji na Streamlit](https://insurance-predictor-jaszczur1969.streamlit.app){:target="_blank"}
 
