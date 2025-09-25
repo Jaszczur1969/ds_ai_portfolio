@@ -1,8 +1,8 @@
-site_name: Moje projekty
+site_name: My projects
 site_author: Jaszczur1969
 site_url: https://github.com/Jaszczur1969/ds_ai_portfolio.git
 site_description: >-
-    Portfolio moich projektów z Data Science i AI!
+    See my Data Science and AI projects portfolio!
 
 repo_name: Jaszczur1969/ds_ai_portfolio
 repo_url: https://github.com/Jaszczur1969/ds_ai_portfolio.git
@@ -16,15 +16,15 @@ theme:
   
     
 nav:
-- Strona Domowa: index.md
-- Obecny projekt:
+- Home Page: index.md
+- Current projects:
   - "Insightly": Insightly/index.md
-- Poprzednie projekty:
+- Previous projects:
   - "EDA - Titanic (PL)": Titanic/index.md
   - "EDA - Iris (PL)": Iris/index.md
   - "Insurance predictor (EN)": Insurance predictor/index.md
   - "Time2Run (EN)": Time2Run/index.md
-  - "Friend Seeker": Friend Seeker/index.md
+  - "Friend Seeker (PL)": Friend Seeker/index.md
 
 markdown_extensions: 
   - attr_list
