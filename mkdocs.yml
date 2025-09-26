@@ -22,9 +22,13 @@ nav:
 - Previous projects:
   - "EDA - Titanic (PL)": Titanic/index.md
   - "EDA - Iris (PL)": Iris/index.md
+  - "EchoSummary Gold (EN)": EchoSummary Gold/index.md
   - "Insurance predictor (EN)": Insurance predictor/index.md
   - "Time2Run (EN)": Time2Run/index.md
   - "Friend Seeker (PL)": Friend Seeker/index.md
+  - Others:
+    - "Musicolate project": Musicolate project/index.md
+  
 
 markdown_extensions: 
   - attr_list
